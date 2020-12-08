@@ -1,5 +1,6 @@
 # Assessing the quality of outcome-based business process predictive monitoring models
-This repository handles the codes for the paper titled "Assessing the quality of outcome-based business process predictive monitoring models". The experiments use the approach proposed by Teinemaa et al. (2019).
+This repository handles the codes for the paper titled "Assessing the quality of outcome-based business process predictive monitoring models". The experiments use the approach proposed in https://github.com/irhete/predictive-monitoring-benchmark by Teinemaa et al. (2019). Then, this paper uses stability_calculator.py to calculate three quality metrics as in below:
+
 ### Overall bucket performance (OBP)
 ### Intra-bucket prediction stability (IBS)
 ### Cross-bucket performance stability (XBS)
